@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sparsha Sawant</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sparsha</h1>
+<h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working as **Quality Assurance Engineer, more as SDET**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Git, QA Testing, MongoDB, SQL, NodeJS, tailwind css**
+- 💬 Currently polishing my skills by building my projects in **React, 3Js**
 
 - 📫 Reach me at: **sawantsparsha@gmail.com**
 
