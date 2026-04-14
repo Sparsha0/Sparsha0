@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working as **Quality Assurance Engineer, more as SDET**
 
-- 💬 Currently polishing my skills by building my projects in **React, 3Js**
+- 💬 polishing my skills by building my projects in **React, 3Js**
 
 - 📫 Reach me at: **sawantsparsha@gmail.com**
 
