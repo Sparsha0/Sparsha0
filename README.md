@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working as **Quality Assurance Engineer, more as SDET**
 
-- 💬 polishing my skills by building my projects in **React, 3Js**
+- 💬 polishing my skills by building my projects in **React, Next JS, 3Js**
 
 - 📫 Reach me at: **sawantsparsha@gmail.com**
 
@@ -15,6 +15,11 @@
     <strong>Dribbble Portfolio</strong>
   </a>
 </p>
+<p align="left">
+  <a href="https://casecraft-ashy.vercel.app/" target="_blank">
+    💬 <strong>ChatGPT-inspired AI app</strong> — Built with React, Next.js & modern UI
+  </a>
+</p>
 
 
 
@@ -22,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/SparshaSawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SparshaSawant" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/sparsha-sawant-5aa9b0254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparsha-sawant" height="30" width="40" /></a>
-<!-- <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Threads_(app)_logo.svg" alt="SparshaSawant" height="30" width="40" /></a> -->
+<a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Threads_(app)_logo.svg" alt="SparshaSawant" height="30" width="40" /></a>
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sparsha0" height="30" width="40" /></a> -->
 </p>
 
