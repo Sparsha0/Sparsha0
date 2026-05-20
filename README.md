@@ -16,7 +16,7 @@
   </a>
 </p>
 <p align="left">
-  <a href="https://casecraft-ashy.vercel.app/" target="_blank">
+  <a href="https://smataichatbot.vercel.app/" target="_blank">
     💬 <strong>ChatGPT-inspired AI app</strong> — Built with React, Next.js & modern UI
   </a>
 </p>
