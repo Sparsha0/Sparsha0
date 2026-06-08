@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sparsha</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently working as **Quality Assurance Engineer, more as SDET**
-
 - 💬 polishing my skills by building my projects in **React, Next JS, 3Js**
 
 - 📫 Reach me at: **sawantsparsha@gmail.com**
