@@ -5,14 +5,12 @@
 Building on GoaOnline, Goa's e-governance portal — and shipping side projects to keep sharpening React, Next.js, and system design fundamentals.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sparsha-sawant" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/sparsha-sawant" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:sawantsparsha@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/src/gmail.svg" alt="email" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-</p>
 
 ---
 
