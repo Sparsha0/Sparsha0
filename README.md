@@ -12,9 +12,6 @@ Building on GoaOnline, Goa's e-governance portal — and shipping side projects 
   <a href="mailto:sawantsparsha@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/src/gmail.svg" alt="email" height="30" width="40" />
   </a>
-  <a href="https://dribbble.com/Sparshaaa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dribbble.svg" alt="dribbble" height="30" width="40" />
-  </a>
 </p>
 
 ---
