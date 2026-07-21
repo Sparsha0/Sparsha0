@@ -6,7 +6,7 @@ Building on GoaOnline, Goa's e-governance portal — and shipping side projects 
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sparsha-sawant-5aa9b0254" target="_blank">
+  <a href="https://www.linkedin.com/in/sparsha-sawant" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="mailto:sawantsparsha@gmail.com" target="_blank">
@@ -24,7 +24,6 @@ Building on GoaOnline, Goa's e-governance portal — and shipping side projects 
 - 🏢 Software Developer at **Goa Electronics Limited**, working on **GoaOnline** — a large-scale e-governance platform serving citizens across Goa
 - 🔨 Currently leading the **React migration of the Goa Housing Board (GHB) service** from a legacy Java stack, alongside UX audits and process documentation for government services
 - 🧠 Solid fundamentals in **SQL/PostgreSQL, DBMS, and Data Structures & Algorithms** — ~200 problems solved on LeetCode
-- 📚 Preparing for **GATE 2027 (CSE)** alongside full-time work, to keep core CS fundamentals sharp
 - 🛠️ Building **Granth**, a Retrieval-Augmented Generation (RAG) system from first principles, to go deep on React, Next.js, and LLM-backed architectures
 - 🎨 I treat design as storytelling — every layout and interaction should have a clear purpose
 - 📫 Reach me at **sawantsparsha@gmail.com**
