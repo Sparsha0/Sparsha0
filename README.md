@@ -63,8 +63,6 @@ DSA
 | **[Ecommerce-Cart](https://github.com/Sparsha0/Ecommerce-Cart)** | Shopping cart UI/logic for an e-commerce flow | JavaScript |
 
 > 🔎 Full list of 26+ repositories on my [GitHub profile](https://github.com/Sparsha0?tab=repositories), including practice builds (Quiz App, Weather App, Counter App), UI clones (Zerodha landing page, credit card checkout), and Three.js learning projects.
-### 📊 GitHub Stats
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sparsha0&show_icons=true&theme=dark&locale=en&layout=compact" alt="Sparsha0 top languages" /> </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sparsha0&show_icons=true&theme=dark&locale=en" alt="Sparsha0 stats" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sparsha0&theme=dark" alt="Sparsha0 streak" /></p>
 
 
 <p align="center"><i>Always learning, always shipping.</i></p>
