@@ -21,7 +21,6 @@ Building and shipping side projects to keep sharpening React, Next.js, and syste
 ### 🧑‍💻 About Me
 
 - 🏢 Software Developer at **Goa Electronics Limited**, working on **GoaOnline** — a large-scale e-governance platform serving citizens across Goa
-- 🔨 Currently leading the **React migration of the Goa Housing Board (GHB) service** from a legacy Java stack, alongside UX audits and process documentation for government services
 - 🧠 Solid fundamentals in **SQL/PostgreSQL, DBMS, and Data Structures & Algorithms** — ~200 problems solved on LeetCode
 - 🛠️ Building **Granth**, a Retrieval-Augmented Generation (RAG) system from first principles, to go deep on React, Next.js, and LLM-backed architectures
 - 🎨 I treat design as storytelling — every layout and interaction should have a clear purpose
