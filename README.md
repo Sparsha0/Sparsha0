@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sparsha Sawant</h1>
-<h3 align="center">Software Developer (React) @ Goa Electronics Limited</h3>
+<h3 align="center">Software Developer (React)</h3>
 
 <p align="center">
-Building on GoaOnline, Goa's e-governance portal — and shipping side projects to keep sharpening React, Next.js, and system design fundamentals.
+Building and shipping side projects to keep sharpening React, Next.js, and system design fundamentals.
 </p>
 
 <p align="center">
